@@ -1,0 +1,37 @@
+Hexadecimal
+azul #69D8FF
+verde #8CC63F
+
+Funtes
+Botón Regístrate/Ingresa Futura Md BT 24pt Bold
+"Déjanos tus datos" Futura Md BT 30pt Bold
+Formulario Archivo Narrow medium Itlaic 25pt
+"¡No pierda más tiepo esperándolos!" Futura Md BT 43pt Bold
+"Prueba Go Trasmi y recibe medio pasaje de cortesía" BenchNine Bold 33pt
+Botón "Descara la app" Futura Md BT 30pt Bold
+Botón Utilizar descuento Futura Md BT 30pt Bold
+"Revisa el saldo de tu tarjeta" Futura Md BT 30pt Bold #000
+"Registra el número de “Tu Llave” personalizada para recibir bonificaciones 
+a cambio de realizar interacciones. También podrás conocer los puntos de recarga 
+más cercanos a ti." Archivo Norrow 25pt
+
+"Mira el de buses en tiempo real" Futura Md BT 28pt Bold
+
+"Conoce el estado de los buses en tiempo real" Futura Md BT 28pt Bold
+
+"Planea tus viajes con anticipación"utura Md BT 28pt Bold
+
+"Observa las interacciones de usuarios activos en la 
+plataforma sobre el estado de concurrencia dentro de los buses
+ y paraderos. Podrás saber si el bus va lleno, medio o vacío." Archivo Norrow 25pt
+
+"Ahorra tiempo de estadía en el transporte público y 
+llega temprano a todos tus compromisos planeando tus viajes con respecto al 
+Itinerario de los buses en circulación."  Archivo Norrow 25pt
+
+"Evita las confusiones en el sistema o que te 
+den malas indicaciones. Utiliza nuestra plataforma  
+para  ubicar tu punto de partida, llegada y escoge entre 
+las múltiples rutas disponibles." Archivo Norrow 25pt
+
+"Únete y haz parte de la comunidad" Arial Bold 30pt
