@@ -15,7 +15,11 @@ body {
     height: auto;
 }
 
-header .header-actions {
+.menu-button {
+    display: none;
+}
+
+/* header .header-actions {
     align-items: center;
     display: flex;
     flex-grow: 1;
@@ -182,7 +186,7 @@ footer .footer-logo {
     justify-content: flex-start;
     padding: 0 3rem;
     width: 30%;
-}
+} */
 
 /* Misc */
 
@@ -244,6 +248,9 @@ h3 {
 /* Responsive*/
 
 @media screen and (max-device-width: 768px) {
+    [role="main"] {
+        padding-top: 65px;
+    }
     .user-menu {
         display: none;
     }
@@ -254,7 +261,10 @@ h3 {
 
 @media screen and (max-device-width: 575px) {
     [role="main"] {
-        padding-top: 80px;
+        padding-top: 100px;
+    }
+    .menu-button {
+        display: block;
     }
     .user-menu {
         display: none;
