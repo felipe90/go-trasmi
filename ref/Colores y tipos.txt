@@ -1,0 +1,11 @@
+Azul #31D4E0
+Verde #8CC63F
+Verde oscuro #3D6300
+Gris #E6E6E6
+Gris oscuro #595959
+Menú desplegable #414141
+
+Botones Futura Md Bt Medium 30pt 
+Arial 40pt Regular 
+Títulos Archivo Narrow Bold 30pt Regular
+Letra de botones para rellenar Arial 25pt Italic #707070
