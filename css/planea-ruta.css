@@ -1,0 +1,35 @@
+.planea-ruta-container {
+    padding: 1rem 1rem 1rem 4.5rem;
+}
+
+.planea-ruta-container .btn {
+    min-width: 8rem;
+    display: flex;
+    justify-content: space-between;
+    flex-flow: row;
+    align-items: center;
+}
+
+.planea-ruta-navbar {
+    background-color: transparent !important;
+}
+
+.planea-ruta-navbar .nav-link {
+    color: #FFFFFF;
+}
+
+.planea-ruta-navbar .navbar-collapse.show {
+    opacity: 0.7;
+    padding: 1rem;
+    background-color: black;
+}
+
+.planea-ruta-navbar .navbar-toggler.collapsed {
+    margin: 2.5rem 1rem 0.5rem 0.5rem;
+}
+
+.planea-ruta-navbar .navbar-toggler {
+    margin: 0;
+    transition: all 1s ease;
+
+}
