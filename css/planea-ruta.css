@@ -24,12 +24,7 @@
     background-color: black;
 }
 
-.planea-ruta-navbar .navbar-toggler.collapsed {
-    margin: 2.5rem 1rem 0.5rem 0.5rem;
-}
-
 .planea-ruta-navbar .navbar-toggler {
-    margin: 0;
+    margin: 2.5rem 1rem 0.5rem 0.5rem;
     transition: all 1s ease;
-
 }
